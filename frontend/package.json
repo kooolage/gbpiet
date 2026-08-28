@@ -13,6 +13,7 @@
     "@hookform/resolvers": "^5.9.1",
     "axios": "^1.20.0",
     "firebase": "^12.18.0",
+    "gbpiet": "file:..",
     "lucide-react": "^1.34.0",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
